@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guled Ali.
+- 🌱 Associate Automation Software Enginnering @ Hitachi Rails.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Software Enginnering.
 - 💞️ I’m looking to collaborate with a team that loves to solve a complex problem.
 - 📫 How to reach me Email - "guledali@guledify.com"
                      Inista - "guyo_ali1177"
